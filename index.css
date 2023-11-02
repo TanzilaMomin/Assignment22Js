@@ -1,0 +1,13 @@
+button{
+    height: 30px;
+    width: 90px;
+    font-weight: bolder;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(226, 135, 179);
+    background-color: rgb(33, 87, 56);
+    color:hotpink;
+    border: none;
+    margin: 10px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
